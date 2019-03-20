@@ -1,0 +1,26 @@
+name: sci-python
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - psutil
+  - toolz
+  - matplotlib
+  - dill
+  - partd
+  - bokeh
+  - dask
+  - distributed
+  - pandas
+  - geopandas
+  - scipy
+  - sympy
+  - numba
+  - tensorflow
+  - scikit-learn
+  - scikit-plot
+  - scikit-image
+  - scikit-optimize
+  - scikit-bio
+  - scikit-umfpack
+  - pymc3
