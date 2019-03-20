@@ -17,7 +17,7 @@ dependencies:
   - scipy
   - sympy
   - numba
-  - tensorflow
+  # - tensorflow # py3.7 conflict
   - scikit-learn
   - scikit-plot
   - scikit-image
