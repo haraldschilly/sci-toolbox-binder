@@ -10,6 +10,7 @@ dependencies:
   - dill
   - partd
   - bokeh
+  - seaborn
   - dask
   - distributed
   - pandas
